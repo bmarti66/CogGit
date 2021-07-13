@@ -1,3 +1,4 @@
 # CogGit
 
-Project for Cognizant Summer 2019
+Project for Onboarding Training
+Cognizant Summer 2019
